@@ -4,14 +4,14 @@ A Collection of my projects completed for my self learning, academic purpose.
 
 ## Credit Card Fraud detection
 
-
-
 [github](https://github.com/meghanacr/credit-card-fraud-detection)
-
+The goal of this project is to identify fradulent credit card transactions using SMOTE and Random Forest methods
 
 ## Forecasting- OnionArrival
 
+
 [github](https://github.com/meghanacr/forecasting-onion-arrival)
+The goal of this project is to forecast the Arrival of Onions arrival at a market in Mumbai, India. 
 
 
 ## Forecasting- Stocks
