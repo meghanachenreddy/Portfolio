@@ -21,7 +21,13 @@ The goal of this project is to forecast the Arrival of Onions arrival at a marke
 [github](https://github.com/meghanacr/forecatsing-stocks)
 
 Stock forecasting is the process of determining the stock prices in future time periods based on past historical stock prices.
-This repo is my work with historical data of the stock prices of some publicly listed companies and implemented a forecasting model based on Long Short Term Memory(LSTM) and also Facebook's Prophet in order to predict the future prices.
+This repo is my work with historical data of the stock prices of some publicly listed companies and implemented a forecasting model based on Long Short Term Memory(LSTM) and also Facebook's Prophet in ordThisnis er to predict the future prices.
+
+
+## Explanatory Data Analysis and model prediction and development on Titanic Dataset
+This is One of the initial EDA practice I have started with like many Data Enthusiasts, Performed EDA and compared accuracy of prediction using models such as KNN,SVM,DecisionTree Classifier,and others
+
+
 
 
 
