@@ -24,8 +24,11 @@ Stock forecasting is the process of determining the stock prices in future time 
 This repo is my work with historical data of the stock prices of some publicly listed companies and implemented a forecasting model based on Long Short Term Memory(LSTM) and also Facebook's Prophet in ordThisnis er to predict the future prices.
 
 
-## Explanatory Data Analysis and model prediction and development on Titanic Dataset
+## Explanatory Data Analysis, model development on Titanic Dataset
+
+[github](https://github.com/meghanacr/titanic-model-development)
 This is One of the initial EDA practice I have started with like many Data Enthusiasts, Performed EDA and compared accuracy of prediction using models such as KNN,SVM,DecisionTree Classifier,and others
+
 
 
 
