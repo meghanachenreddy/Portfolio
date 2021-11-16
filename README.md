@@ -27,6 +27,7 @@ This repo is my work with historical data of the stock prices of some publicly l
 ## Explanatory Data Analysis, model development on Titanic Dataset
 
 [github](https://github.com/meghanacr/titanic-model-development)
+
 This is One of the initial EDA practice I have started with like many Data Enthusiasts, Performed EDA and compared accuracy of prediction using models such as KNN,SVM,DecisionTree Classifier,and others
 
 
