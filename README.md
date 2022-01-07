@@ -2,7 +2,24 @@
 
 A Collection of my projects completed for my self learning, academic purpose.
 
-## Credit Card Fraud detection
+
+##Restaurant DataBase Design
+[github](https://github.com/meghanacr/Restaurant-Database-Design)
+
+As consultants, we organize reviews of restaurants in College Park for customers, aiming to reveal and connect customers with excellent local restaurants, create exquisite dining experiences and convenience. And according to the popularity of different cuisine restaurants and the number of comments on different platforms on the above provides insights for restaurant owners and potential investors.
+● Clients
+For our project, we have three main clients as listed below:
+1. Students and local resides
+These are the end-users of restaurant services in College Park. Our project intends to help these users identify restaurants with good reviews and make a wise choice when choosing restaurant services.
+2. Restaurant Owners
+Our project also aims to provide the restaurant owners with insights into the dining services offered in College Park and help them with any expansion plans or any changes to the services offered based on the reviews collected.
+3. Potential Investors
+For investors who are looking to invest in opening a new restaurant, the consulting project seeks to help with insights on top cuisines that are liked by customers in this area.
+
+
+## Credit Card Fraud detection● Background
+
+
 
 [github](https://github.com/meghanacr/credit-card-fraud-detection)
 
@@ -29,6 +46,8 @@ This repo is my work with historical data of the stock prices of some publicly l
 [github](https://github.com/meghanacr/titanic-model-development)
 
 This is One of the initial EDA practice I have started with like many Data Enthusiasts, Performed EDA and compared accuracy of prediction using models such as KNN,SVM,DecisionTree Classifier,and others
+
+
 
 
 
