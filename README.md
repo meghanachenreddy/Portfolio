@@ -3,7 +3,7 @@
 A Collection of my projects completed for my self learning, academic purpose.
 
 
-##Restaurant DataBase Design
+## Restaurant DataBase Design
 [github](https://github.com/meghanacr/Restaurant-Database-Design)
 
 As consultants, we organize reviews of restaurants in College Park for customers, aiming to reveal and connect customers with excellent local restaurants, create exquisite dining experiences and convenience. And according to the popularity of different cuisine restaurants and the number of comments on different platforms on the above provides insights for restaurant owners and potential investors.
@@ -17,9 +17,7 @@ Our project also aims to provide the restaurant owners with insights into the di
 For investors who are looking to invest in opening a new restaurant, the consulting project seeks to help with insights on top cuisines that are liked by customers in this area.
 
 
-## Credit Card Fraud detection● Background
-
-
+## Credit Card Fraud detection
 
 [github](https://github.com/meghanacr/credit-card-fraud-detection)
 
