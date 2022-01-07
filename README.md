@@ -7,8 +7,7 @@ A Collection of my projects completed for my self learning, academic purpose.
 [github](https://github.com/meghanacr/Restaurant-Database-Design)
 
 As consultants, we organize reviews of restaurants in College Park for customers, aiming to reveal and connect customers with excellent local restaurants, create exquisite dining experiences and convenience. And according to the popularity of different cuisine restaurants and the number of comments on different platforms on the above provides insights for restaurant owners and potential investors.
-● Clients
-For our project, we have three main clients as listed below:
+● Clients For our project, we have three main clients as listed below:
 1. Students and local resides
 These are the end-users of restaurant services in College Park. Our project intends to help these users identify restaurants with good reviews and make a wise choice when choosing restaurant services.
 2. Restaurant Owners
